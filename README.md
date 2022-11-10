@@ -19,8 +19,8 @@ ___
 Style
 #npm install styled-components
 
-#Rodar o projeto local
-npm run dev
+Rodar o projeto local 
+#npm run dev
 
-#DEPLOY do Projeto
-https://vercel.com/
+DEPLOY do Projeto
+#https://vercel.com/
